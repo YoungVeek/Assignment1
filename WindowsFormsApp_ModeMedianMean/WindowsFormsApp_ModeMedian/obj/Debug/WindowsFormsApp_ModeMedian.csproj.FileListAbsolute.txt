@@ -1,0 +1,30 @@
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.pdb
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.exe
+D:\Maikyau\Documents\Visual Studio Codes\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe.config
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\LENOVO\Desktop\cen 414\tomorrow\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe.config
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csprojAssemblyReference.cache
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Properties.Resources.resources
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.GenerateResource.cache
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.pdb

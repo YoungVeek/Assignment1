@@ -1,0 +1,27 @@
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\bin\Debug\converting pounds to kg 2.exe
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\bin\Debug\converting pounds to kg 2.pdb
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csprojAssemblyReference.cache
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting_pounds_to_kg_2.Form1.resources
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting_pounds_to_kg_2.Properties.Resources.resources
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csproj.GenerateResource.cache
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.exe
+C:\Users\DELL PC\source\repos\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.pdb
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\bin\Debug\converting pounds to kg 2.exe
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\bin\Debug\converting pounds to kg 2.pdb
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csprojAssemblyReference.cache
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting_pounds_to_kg_2.Form1.resources
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting_pounds_to_kg_2.Properties.Resources.resources
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csproj.GenerateResource.cache
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csproj.CoreCompileInputs.cache
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.exe
+C:\Users\Gesinde Abisolu\Documents\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.pdb
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\bin\Debug\converting pounds to kg 2.exe
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\bin\Debug\converting pounds to kg 2.pdb
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csprojAssemblyReference.cache
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting_pounds_to_kg_2.Form1.resources
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting_pounds_to_kg_2.Properties.Resources.resources
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csproj.GenerateResource.cache
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.exe
+C:\Users\VICTOR UNDELIKWO\Videos\New folder\414\converting pounds to kg 2\converting pounds to kg 2\obj\Debug\converting pounds to kg 2.pdb
